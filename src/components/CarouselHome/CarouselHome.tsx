@@ -10,7 +10,7 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="src/assets/images/he_highsummer_0519_10.webp"
+          src="src/assets/images/he_highsummer_0519_10.webp" 
           alt="First slide"
         />
         <Carousel.Caption>
@@ -39,6 +39,7 @@ const CarouselHome= () => {
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
           src="src/assets/images/ropa-para-hombre-verano.jpg"
+
           alt="Third slide"
         />
         <Carousel.Caption>

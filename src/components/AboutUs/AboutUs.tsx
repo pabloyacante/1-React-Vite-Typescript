@@ -8,19 +8,20 @@ const AboutUs = () => {
             <div 
             style={{
                 display: 'flex', margin: '15px',
-                justifyContent: 'center'
+                justifyContent: 'center' 
             }}
-            >
+            > 
             <Card style={{ width: '18rem', margin: '10px' }}>
                 <Card.Img variant="top" src="src/assets/images/moda-hombre-primavera-verano-2021-770x488.jpg" />
                 <Card.Body>
                     <Card.Title>Ropa casual</Card.Title>
                     <Card.Text>
-                    Some quick example text to build on the card title and make up the
+                    Some quick example text to build on the card title and make up the 
                     bulk of the card's content.
                     </Card.Text>
                 </Card.Body>
-            </Card>
+            </Card> 
+                
             <Card style={{ width: '18rem', margin: '10px' }}>
                 <Card.Img variant="top" src="src/assets/images/0000222008_9_1_13.webp" />
                 <Card.Body>
