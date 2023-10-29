@@ -10,7 +10,7 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="/*src/assets/images/1366_2000.jpeg*/ https://4kwallpapers.com/images/walls/thumbs_2t/10955.jpg"
+          src=" https://4kwallpapers.com/images/walls/thumbs_2t/10955.jpg" /*src/assets/images/1366_2000.jpeg*/
           alt="First slide"
         />
         <Carousel.Caption>
@@ -24,7 +24,7 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="/*src/assets/images/super-mario-bros-la-pelicula-escenas-postcreditos-2-06042023-1140x750.jpeg*/ https://cloudfront-us-east-1.images.arcpublishing.com/copesa/HTX4FJZLFVDQTHUG5OHPIW3AMI.jpg"
+          src=" https://cloudfront-us-east-1.images.arcpublishing.com/copesa/HTX4FJZLFVDQTHUG5OHPIW3AMI.jpg"/*src/assets/images/super-mario-bros-la-pelicula-escenas-postcreditos-2-06042023-1140x750.jpeg*/
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -38,7 +38,7 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="/*src/assets/images/super-mario-bros-movie-800x400.jpg*/ https://i.pinimg.com/474x/12/ac/66/12ac66cf9d416c7364b5ead73c6f7647.jpg"
+          src=" https://i.pinimg.com/474x/12/ac/66/12ac66cf9d416c7364b5ead73c6f7647.jpg"/*src/assets/images/super-mario-bros-movie-800x400.jpg*/
           alt="Third slide"
         />
         <Carousel.Caption>
