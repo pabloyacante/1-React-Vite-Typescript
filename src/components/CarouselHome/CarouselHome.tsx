@@ -10,12 +10,12 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="src/assets/images/1366_2000.jpeg"
+          src="src/assets/images/he_highsummer_0519_10.webp"
           alt="First slide"
         />
         <Carousel.Caption>
-          <h5>Mario Kart</h5>
-          <p>Pelicula Exclusiva en Cines y Paginas Pirata</p>
+          <h5>Temporada 2023</h5>
+          <p>Renova tu outfit con lo último en moda</p>
         </Carousel.Caption>
       </Carousel.Item>
 
@@ -24,12 +24,12 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="src/assets/images/super-mario-bros-la-pelicula-escenas-postcreditos-2-06042023-1140x750.jpeg"
+          src="src/assets/images/79890d8a191a895deb499c0d0b11a9d3.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
-          <h5>Mario y Luigi</h5>
-          <p>Pelicula Exclusiva en Cines y Paginas Pirata</p>
+          <h5>Set Francia</h5>
+          <p>Cambia de aire con lo último del desfile de Paris</p>
         </Carousel.Caption>
       </Carousel.Item>
 
@@ -38,13 +38,13 @@ const CarouselHome= () => {
         <img
           className="d-block w-100"
           style={{maxHeight: "500px", objectFit: 'cover'}}
-          src="src/assets/images/super-mario-bros-movie-800x400.jpg"
+          src="src/assets/images/ropa-para-hombre-verano.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
-          <h5>Ojos de Mario</h5>
+          <h5>Verano elegante</h5>
           <p>
-            Pelicula Exclusiva en Cines y Paginas Pirata
+            Pasa el verano a la moda con nuestros conjuntos propios
           </p>
         </Carousel.Caption>
       </Carousel.Item>

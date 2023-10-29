@@ -11,7 +11,7 @@ const Header = () => {
            <Navbar expand="lg" className="bg-body-tertiary">
       <Container fluid>
 
-        <Navbar.Brand onClick={()=> navigate ('/')} style={{paddingLeft:'5px'}}>Lucas Ortiz Pagina Tp React</Navbar.Brand>
+        <Navbar.Brand onClick={()=> navigate ('/')} style={{paddingLeft:'5px'}}>Pablo Yacante</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
@@ -19,9 +19,9 @@ const Header = () => {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link onClick={()=> navigate ('/')} style={{paddingLeft:'5px'}}>MENU PRINCIPAL</Nav.Link>
-            <Nav.Link onClick={()=> navigate ('/componentes')} style={{paddingLeft:'5px'}}>COMPONENTES</Nav.Link>
-            <Nav.Link onClick={()=> navigate ('/administracion')} style={{paddingLeft:'5px'}}>ADMINISTRACION</Nav.Link>
+            <Nav.Link onClick={()=> navigate ('/')} style={{paddingLeft:'5px'}}>Home</Nav.Link>
+            <Nav.Link onClick={()=> navigate ('/componentes')} style={{paddingLeft:'5px'}}>Components</Nav.Link>
+            <Nav.Link onClick={()=> navigate ('/administracion')} style={{paddingLeft:'5px'}}>Administration</Nav.Link>
             <NavDropdown title="Link" id="navbarScrollingDropdown" >
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
@@ -39,11 +39,11 @@ const Header = () => {
           <Form className="d-flex">
             <Form.Control
               type="search"
-              placeholder="BUSCAR"
+              placeholder="Search"
               className="me-2"
               aria-label="Search"
             />
-            <Button variant="outline-success">BUSCAR</Button>
+            <Button variant="outline-success">Search</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
