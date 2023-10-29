@@ -12,7 +12,7 @@ const AboutUs = () => {
             }}
             >
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="src/assets/images/mario_hd_super_mario_bros_.jpg" />
+                <Card.Img variant="top" src="https://www.hdwallpapers.in/download/mario_hd_super_mario_bros_-HD.jpg" />
                 <Card.Body>
                     <Card.Title>Mario Fuego</Card.Title>
                     <Card.Text>
