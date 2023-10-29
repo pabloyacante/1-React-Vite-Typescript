@@ -12,7 +12,7 @@ const AboutUs = () => {
             }}
             >
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="/*src/assets/images/mario_hd_super_mario_bros_.jpg*/https://www.hdwallpapers.in/download/mario_hd_super_mario_bros_-HD.jpg" />
+                <Card.Img variant="top" src="https://www.hdwallpapers.in/download/mario_hd_super_mario_bros_-HD.jpg" /> /*src/assets/images/mario_hd_super_mario_bros_.jpg*/
                 <Card.Body>
                     <Card.Title>Mario Fuego</Card.Title>
                     <Card.Text>
@@ -22,7 +22,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="/*src/assets/images/hero-artwork-super-mario-bros-mario-character-wallpaper-preview.jpg*/ https://p4.wallpaperbetter.com/wallpaper/434/135/615/super-4k-8k-mario-wallpaper-preview.jpg" />
+                <Card.Img variant="top" src=" https://p4.wallpaperbetter.com/wallpaper/434/135/615/super-4k-8k-mario-wallpaper-preview.jpg" /> /*src/assets/images/hero-artwork-super-mario-bros-mario-character-wallpaper-preview.jpg*/
                 <Card.Body>
                     <Card.Title>Mario Heroe</Card.Title>
                     <Card.Text>
@@ -32,7 +32,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card style={{ width: '18rem', margin: '10px' }}>
-                <Card.Img variant="top" src="/*src/assets/images/super-mario-super-mario-bros-hd-wallpaper-preview.jpg*/ https://mizivir.com/wp-content/uploads/2023/07/super-mario-bros-movie-2.jpg" />
+                <Card.Img variant="top" src=" https://mizivir.com/wp-content/uploads/2023/07/super-mario-bros-movie-2.jpg" /> /*src/assets/images/super-mario-super-mario-bros-hd-wallpaper-preview.jpg*/
                 <Card.Body>
                     <Card.Title>Mario Laburante</Card.Title>
                     <Card.Text>
